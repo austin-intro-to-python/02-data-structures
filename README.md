@@ -10,3 +10,6 @@ In this lesson, students will:
 * Use dictionaries to represent data with multiple properties.
 
 [Materials on Google Drive](https://docs.google.com/presentation/d/1lcROrPlqxN-MXo2jOf-EiXVPq1A0gRC6blTGOUulnL0/edit?usp=sharing)
+
+[Setting up Github pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+)
