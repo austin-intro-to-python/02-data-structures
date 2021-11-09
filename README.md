@@ -11,5 +11,7 @@ In this lesson, students will:
 
 [Materials on Google Drive](https://docs.google.com/presentation/d/1lcROrPlqxN-MXo2jOf-EiXVPq1A0gRC6blTGOUulnL0/edit?usp=sharing)
 
-[Setting up Github pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+Additional Reading:
+* [How to deploy a static web page](https://austinlasseter.medium.com/create-a-static-webpage-using-github-and-plotly-468ae89710d3)
+* [Setting up Github pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
 )
